@@ -84,4 +84,4 @@ async def unmute(ctx, member: discord.Member):
     await member.send(f"Sunucuda susturulman kaldırıldı {ctx.guild.name}")
     
 
-bot.run('OTIxNDE1Mzg3MzAyNzQ0MTE0.Ybyk8w.se9G96QGB_EOQJe4wCZ96QoA4zc')
+bot.run('token')
